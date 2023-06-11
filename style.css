@@ -4,7 +4,7 @@ html {
   background-image: url(Poster\ Cartel\ Concierto\ Festival\ de\ Música\ Colorido\ Atrevido\ Abstracto.png);
 
 }
-@media (max-width: 400px) {
+@media (max-width: 450px) {
  html{
   background-image: url(Poster\ Cartel\ Concierto\ Festival\ de\ Música\ Colorido\ Atrevido\ Abstracto.png);
   background-size: cover;
@@ -13,9 +13,9 @@ html {
   background-size: 100vw 100vh;
   
  }
-footer input{
-margin-top: 775px;
-margin-left: 126px;
+input{
+margin-top: 92vh;
+margin-left: 33vw;
 background-color: rgb(223, 56, 0);
 border-radius: 5px;
 

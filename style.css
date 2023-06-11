@@ -1,24 +1,27 @@
 html {
   width: 100vw;
   height: 100vh;
-  background-image: url(Poster\ Cartel\ Concierto\ Festival\ de\ Música\ Colorido\ Atrevido\ Abstracto.png);
+  background-image: url(Copia\ de\ Poster\ Cartel\ Concierto\ Festival\ de\ Música\ Colorido\ Atrevido\ Abstracto.png );
 
 }
 @media (max-width: 450px) {
  html{
-  background-image: url(Poster\ Cartel\ Concierto\ Festival\ de\ Música\ Colorido\ Atrevido\ Abstracto.png);
+  background-image: url(Copia\ de\ Poster\ Cartel\ Concierto\ Festival\ de\ Música\ Colorido\ Atrevido\ Abstracto.png);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 100vw 100vh;
-  
- }
+background-size:100vw 100vh;
+  }
 input{
-margin-top: 92vh;
+margin-top: 69vh;
 margin-left: 33vw;
-background-color: rgb(223, 56, 0);
-border-radius: 5px;
+background: rgb(255,240,217);
+background: radial-gradient(circle, rgba(255,240,217,1) 3%, rgba(255,74,9,1) 68%);
 
 }
+input:hover{
+  background-color:white ;
+  
+}
+
 
 }
